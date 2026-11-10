@@ -2,7 +2,7 @@
 
 A private, mobile-friendly PDF reading room. Upload books, pick up exactly where you left off, save pages, and take notes — synced to your account on every device.
 
-**Live:** https://shelf-sable-seven.vercel.app
+**Live:** https://shelf-sable-seven.vercel.app · **Repo:** https://github.com/hassanabni/shelf
 
 ## Stack
 - Next.js 15 (App Router) · TypeScript · Tailwind CSS v4 · shadcn/ui
